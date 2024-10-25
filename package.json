@@ -1,0 +1,15 @@
+{
+  "name": "noteapp",
+  "version": "1.0.0",
+  "description": "Note taking desktop App with HTML, CSS & JavaScript using Electron\r Saves custom notes as txt files locally",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^33.0.2"
+  }
+}
